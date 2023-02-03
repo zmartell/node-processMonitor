@@ -13,9 +13,6 @@
       "default": "./lib/promises.js"
     }
   },
-  "os": [
-    "win32"
-  ],
   "engines": {
     "node": ">=16.0.0"
   },
